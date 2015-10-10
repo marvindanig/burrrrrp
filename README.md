@@ -5,7 +5,7 @@ A small library providing utility methods to `escape` and eat HTML entities
 
 ## Installation
 
-  npm install burp --save
+>  npm install burp --save
 
 ## Usage
 
