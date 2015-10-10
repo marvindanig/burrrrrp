@@ -1,30 +1,29 @@
 {
-  "name": "burp",
+  "name": "burrrrrp",
   "version": "0.1.0",
-  "description": "A small library with utility methods to eat up all HTML",
+  "description": "A small library that chews on HTML",
   "main": "index.js",
   "scripts": {
     "test": "make test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marvindanig/burp.git"
+    "url": "git+https://github.com/marvindanig/burrrrrp.git"
   },
   "keywords": [
     "html",
-    "escape",
     "eat",
-    "burp"
+    "burrrrrp"
   ],
   "author": "Marvin Danig <marvin@bubbl.in> (https://marvindanig.com)",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/marvindanig/burp/blob/master/MIT-LICENSE"
+    "url": "https://github.com/marvindanig/burrrrrp/blob/master/MIT-LICENSE"
   },
   "bugs": {
-    "url": "https://github.com/marvindanig/burp/issues"
+    "url": "https://github.com/marvindanig/burrrrrp/issues"
   },
-  "homepage": "https://github.com/marvindanig/burp#readme",
+  "homepage": "https://github.com/marvindanig/burrrrrp#readme",
   "devDependencies": {
     "chai": "^3.3.0",
     "mocha": "^2.3.3"

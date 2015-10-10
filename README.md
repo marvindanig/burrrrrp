@@ -1,22 +1,22 @@
-Burp
+burrrrrp
 =========
 
-A small library providing utility methods to `escape` and eat HTML entities
+A small library that chews on HTML entities!
 
 ## Installation
 
->  npm install burp --save
+>  npm install burrrrrp --save
 
 ## Usage
 
 ```
-  var burp = require('burp')
-      eat = burp.eat;
+  var burrrrrp = require('burrrrrp')
+      eat = burrrrrp.eat;
 
   var html = '<h1>Hello World</h1>',
-      burped = eat(html);
+      burrrrrped = eat(html);
 
-  console.log('html', html, 'burped', burped);
+  console.log('html', html, 'burrrrrped', burrrrrped);
 ```
 
 ## Tests

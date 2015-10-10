@@ -1,6 +1,6 @@
 var should = require('chai').should(),
-    burp = require('../index'),
-    eat = burp.eat;
+    burrrrrp = require('../index'),
+    eat = burrrrrp.eat;
 
 describe('#eat', function() {
   it('converts & into space', function() {
