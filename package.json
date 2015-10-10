@@ -19,7 +19,7 @@
   "author": "Marvin Danig <marvin@bubbl.in> (https://marvindanig.com)",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/marvindanig/burp/blob/master/LICENSE-MIT"
+    "url": "https://github.com/marvindanig/burp/blob/master/MIT-LICENSE"
   },
   "bugs": {
     "url": "https://github.com/marvindanig/burp/issues"
