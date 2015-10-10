@@ -1,6 +1,6 @@
 {
   "name": "burrrrrp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A small library that chews on HTML",
   "main": "index.js",
   "scripts": {
