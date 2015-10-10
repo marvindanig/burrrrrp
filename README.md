@@ -9,6 +9,7 @@ A small library providing utility methods to `escape` and eat HTML entities
 
 ## Usage
 
+```
   var burp = require('burp')
       eat = burp.eat;
 
@@ -16,14 +17,14 @@ A small library providing utility methods to `escape` and eat HTML entities
       burped = eat(html);
 
   console.log('html', html, 'burped', burped);
+```
 
 ## Tests
 
-  npm test
+>  npm test
 
 ## Contributing
 
-In lieu of a formal styleguide, take care to maintain the existing coding style.
 Add unit tests for any new or changed functionality. Lint and test your code.
 
 ## Release History
