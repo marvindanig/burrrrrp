@@ -10,14 +10,12 @@ A small library providing utility methods to `escape` and eat HTML entities
 ## Usage
 
   var burp = require('burp')
-      escape = burp.escape,
-      unescape = burp.unescape;
+      eat = burp.eat;
 
   var html = '<h1>Hello World</h1>',
-      escaped = escape(html),
-      unescaped = unescape(escaped);
+      burped = eat(html);
 
-  console.log('html', html, 'escaped', escaped, 'unescaped', unescaped);
+  console.log('html', html, 'burped', burped);
 
 ## Tests
 
